@@ -2,7 +2,7 @@
 
 The project builds successfully but the built wasm pkg returns an error when run
 ```
-$ node app.js
+$ node test.js
 wasm://wasm/00028e6e:1
 
 
